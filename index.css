@@ -24,10 +24,18 @@ label{
     width: 370px;
     margin: 0 auto;
 }
+ul{
+    list-style-type: none;
+    font-size: small;
+}
 
-ul li{
+ul li::before{
     font-size: small;
     color:rgb(73, 193, 240);
+    content: "▶"; 
+    margin-right: 5px; 
+    font-size: 5px;   
+    vertical-align: middle;   
 }
 
 h1{
