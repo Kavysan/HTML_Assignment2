@@ -21,7 +21,7 @@ label{
     border: 1px solid #333;
     border-color: lightgray;
     padding: 10px;
-    width: 420px;
+    width: 370px;
     margin: 0 auto;
 }
 
@@ -36,13 +36,13 @@ h1{
 }
 #submit{
     background-color: rgb(300, 200, 0);
-    width: 350px; 
+    width: 365px; 
     height: 30px;
     border-width: 0.5px;
 }
 
 input{
-    width: 410px;  
+    width: 360px;  
     height: 25px;
     border-style:groove;
     border-radius: 1.5px;
@@ -76,7 +76,7 @@ a{
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
     text-align: center;
-    column-gap:1rem;
+    column-gap:0.6rem;
     color:grey;
     font-size: 50;
 }
@@ -93,7 +93,7 @@ a{
 #create_new_button {
     display: block;
     margin: 0px auto; 
-    width: 400px;
+    width: 380px;
     height: 30px;
     border-radius: 0px;
     border-width: 0.75px;
